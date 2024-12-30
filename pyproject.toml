@@ -21,8 +21,8 @@ integrations = [
     'aiokeycloak[aiohttp]',
 ]
 linters = [
-    'mypy==1.13.0',
-    'ruff==0.7.1',
+    'mypy==1.14.1',
+    'ruff==0.8.4',
 ]
 dev = [
     'aiokeycloak[linters]',
